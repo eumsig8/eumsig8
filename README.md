@@ -1,16 +1,21 @@
-## Hi there 👋
+# **Hi, I'm Mariia Kulyk**
+🎓 Software Engineering student at **Vilnius University (Šiauliai Academy)**
 
-<!--
-**eumsig8/eumsig8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **About Me**
 
-Here are some ideas to get you started:
+💻 I'm a motivated Software Engineering student with a strong foundation in *object-oriented programming* and *data structures*. I enjoy turning ideas into real projects and constantly learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently, I'm expanding my skills in:
+* C++, C#, PHP
+* SQL & databases
+* Artificial Intelligence
+
+👩‍💻 I'm looking for opportunities where I can gain *real-world experience, collaborate with others, and grow as a developer.*
+
+## 🛠️ Tech Stack
+* Languages: Python, JavaScript, C#
+* Frontend: React, HTML, CSS
+* Tools & Technologies: Unity, Blender, Git
+* Currently Learning: C++, PHP, SQL, AI
+
+### 🤗 Always ready to collaborate with different people and build something beatiful (and to learn of course)!
